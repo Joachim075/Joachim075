@@ -1,8 +1,11 @@
+
+![Header](https://github.com/Joachim075/Joachim075/assets/144176451/eb334788-e91e-4025-bd01-a4498c8fbd14)
+
 ### Hi there 👋
 
 ## Overview
 
- 👋 Hi, I'm Kafuluma Joachim, a passionate front-end developer with expertise in web technologies.
+  I'm Kafuluma Joachim, a passionate front-end developer with expertise in web technologies.
 
 - 🔭 I’m currently working on building responsive web applications using React.
 - 🌱 I’m currently learning advanced CSS animations.
@@ -15,7 +18,13 @@
 💼 Currently learning at Kanzu Code on exciting web skills and projects.
 🌱 Always eager to learn and stay up-to-date with the latest web trends.
 
-##🔧Skills:
-- HTML5, CSS3, JavaScript
-- Git and GitHub
+🔧Skills:
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+  
+
 
